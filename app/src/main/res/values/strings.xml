@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HotelTravelAppUI</string>
+    <string name="_1_room">1 Room</string>
+    <string name="_2_guests">2 Guests</string>
+    <string name="_17_june_23_june">17 June - 23 June</string>
+    <string name="hotel_list">Hotel List</string>
+    <string name="todo">TODO</string>
+</resources>
